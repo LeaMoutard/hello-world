@@ -1,2 +1,2 @@
 # hello-world
-learning how to code
+Hey this is Léa, I am learning how to code
